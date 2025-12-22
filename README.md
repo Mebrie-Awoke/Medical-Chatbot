@@ -1,7 +1,7 @@
 # Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
 
 # How to run?
-### STEPS:
+## STEPS:
 
 Clone the repository
 
@@ -128,4 +128,5 @@ open up localhost:
    - ECR_REPO
    - PINECONE_API_KEY
    - OPENAI_API_KEY
+
 
